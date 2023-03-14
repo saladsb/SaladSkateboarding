@@ -1,5 +1,6 @@
-# SaladSkateboarding
-Salad Skateboarding 
+# Salad Skateboarding
+
+## Terms and Conditions
 
 <h2>End-User License Agreement (EULA) of <span class="app_name">Salad SB</span></h2>
 
