@@ -47,3 +47,10 @@
 <h3>Governing Law</h3>
 
 <p>This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of <span class="country">gb</span>.</p>
+
+# Need help ?
+
+Contacts us. 
+
+Email: saladskateboarding@gmail.com
+
