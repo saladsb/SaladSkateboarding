@@ -1,8 +1,8 @@
 # Salad Skateboarding
 
 ## Privacy and Policy
-This app does not include contests or sweepstakes. All users receive equal rewards for valid submissions. 
-Apple is not a sponsor of any challenges or rewards.
+Apple is not a sponsor of any rewards, challenges, or competitions in this app. 
+All rewards are distributed equally based on valid trick submissions.
 
 ## Terms and Conditions
 
